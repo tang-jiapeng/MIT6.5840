@@ -4,7 +4,7 @@
 
 目前进度：
 - [x] Lab 1: MapReduce
-- [ ] Lab 2: Key/Value Server
+- [x] Lab 2: Key/Value Server
 - [ ] Lab 3: Raft
   - [ ] Part 3A: leader election
   - [ ] Part 3B: log
