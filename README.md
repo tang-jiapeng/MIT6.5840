@@ -6,7 +6,7 @@
 - [x] Lab 1: MapReduce
 - [x] Lab 2: Key/Value Server
 - [ ] Lab 3: Raft
-  - [ ] Part 3A: leader election
+  - [x] Part 3A: leader election
   - [ ] Part 3B: log
   - [ ] Part 3C: persistence
   - [ ] Part 3D: log compaction
